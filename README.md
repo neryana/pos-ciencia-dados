@@ -1,2 +1,2 @@
-# pos-ciencia-dados 
+# pos-ciencia-dados-analytics 
 Repositório Ciência de Dados
